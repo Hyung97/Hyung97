@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 <p><em> Software Enginner Student at <a href="https://ugb.edu.sv/">University Gerardo Barrios </a><img src="[https://media.giphy.com/media/vjCEgY6ci1i2wgndJm/giphy.gif](https://giphy.com/gifs/leagueoflegends-league-of-legends-pentakill-lost-chapter-HLXCJnOvRqjO2UYV71)" width="30"></br>Developer Student at <a href="https://ugb.edu.sv/ing-en-sistemas-y-redes-informaticas.html">Ingeniería en Sistemas y Redes Informaticas </a><img src="https://giphy.com/gifs/cute-kawaii-ZtB2l3jHiJsFa" width="30"> 
 </em></p>
 <a href="https://twitter.com/hyung_miller97"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-<a href="https://www.instagram.com/kuroneko.kyoko/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-<a href="https://www.linkedin.com/in/estefani-ram%C3%ADrez-3471a0147/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.instagram.com/kuroneko.kyoko/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.linkedin.com/in/estefani-ram%C3%ADrez-3471a0147/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 
  <div>
- <p>
+ <a>
 Estudiante del 4º año, VII ciclo de la carrera Ingeniería en Sistemas y Redes Informáticas, en la Universidad Gerardo Barrios de Usulután. Mis ramas favorita son la programación, robótica y el diseño gráfico 👩‍💻. Soy una friki amante de los videojuegos 🎮, películas 🎬, anime y manga. Me encantan los michis😸. Tu belleza me cegó; Necesitaré su nombre y número de teléfono para fines de seguro. 😻
-</p>
+</a>
 </div>
  
  
